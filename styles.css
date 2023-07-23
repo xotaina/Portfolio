@@ -1,6 +1,6 @@
 body {
     font-family: 'Courier New', monospace;
-    font-weight: bold; /* Bold body text */
+    font-weight: bold; 
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -35,7 +35,7 @@ section {
     background-color: #fefefe;
     padding: 20px;
     border-radius: 15px;
-    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 15px rgba(232, 151, 230, 0.1);
 }
 
 .project {
@@ -103,3 +103,65 @@ form input[type="submit"] {
     height: auto;
 }
 
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #e9c2ff;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #b77eb9;
+}
+
+.skill {
+    border: 2px solid #d8b6ff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.skill h3 {
+    color: #d8b6ff;
+}
+
+.skill p {
+    color:#8f4cd3 ;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form input, form textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+form input[type="submit"] {
+    background-color: #d8b6ff;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+    background-color: #b6e1ff;
+}
