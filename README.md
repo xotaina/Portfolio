@@ -20,7 +20,7 @@ To view this project, you can clone it and run it locally:
 1. Clone the repository: `git clone https://xotaina.github.io/Portfolio/`
 2. Open the `index.html` file in your browser.
 
-Alternatively, you can view the live version [here](https://xotaina.github.io/portfolio/).
+Alternatively, you can view the live version `git clone https://xotaina.github.io/Portfolio/`
 
 ## Future Updates
 
