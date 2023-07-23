@@ -17,7 +17,7 @@ This portfolio website is built using HTML and CSS. It's designed to provide a c
 
 To view this project, you can clone it and run it locally:
 
-1. Clone the repository: `git clone https://github.com/xotaina/portfolio.git`
+1. Clone the repository: `git clone https://xotaina.github.io/Portfolio/`
 2. Open the `index.html` file in your browser.
 
 Alternatively, you can view the live version [here](https://xotaina.github.io/portfolio/).
